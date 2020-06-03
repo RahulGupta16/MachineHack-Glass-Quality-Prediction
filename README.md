@@ -17,6 +17,6 @@ Target Variable: class
 
 ## Rank: 40
 
-## Local cv: o.513525
+## Local cv: 0.513525
 
 ## Online cv: 0.26672
