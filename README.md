@@ -17,6 +17,8 @@ Target Variable: class
 
 ## Rank: 40
 
-## Local cv: 0.513525
+![glass](https://user-images.githubusercontent.com/56091634/84696842-bb2e7680-af6a-11ea-8ea8-ddfe98744764.png)
 
-## Online cv: 0.26672
+## Online cv: 0.30113
+
+## Local cv: 0.513525
